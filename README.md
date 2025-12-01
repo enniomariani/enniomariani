@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ennimariani&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ennimariani's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ennimariani&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ennimariani's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ennimariani&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
+</div>
+
+<hr>
+
 <!--
 **enniomariani/enniomariani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
