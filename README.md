@@ -2,7 +2,7 @@
 
 I am a FullStack dev who loves tech and layout-challenges
 
-- 🖥️ Recently I built [Musea](https://github.com/enniomariani/musea), a fully tested system for managing interactive museum installations
+- 🖥️ Recently I built [Musea (GER)](https://github.com/enniomariani/musea), a fully tested system for managing interactive museum installations
 - 🌱 I'm currently deepening my knowledge in GitHub Actions
 - 📫 Reach me on [mail@enniomariani.ch](mailto:mail@enniomariani.ch)  
 
