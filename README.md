@@ -20,8 +20,8 @@ I am a FullStack dev who loves tech and layout-challenges
 
 **Interactive/Visual:**  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23EEEEEE.svg?style=for-the-badge&logo=godot-engine)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23000000.svg?style=for-the-badge&logo=godot-engine&logoColor=478CBF)
 
 *I also work with GitHub Actions, Docker, MySQL, PHP, Figma, and various other tools depending on project needs.*
 
