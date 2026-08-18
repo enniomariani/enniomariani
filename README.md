@@ -3,7 +3,7 @@
 I am a FullStack dev who loves tech and layout-challenges
 
 - 🖥️ Recently I built [Musea (GER)](https://github.com/enniomariani/musea), a fully tested system for managing interactive museum installations
-- 🌱 I'm currently deepening my knowledge in GitHub Actions and Godot
+- 🌱 I'm currently deepening my knowledge in C, Raspberry Pis and Video-Decoding
 - 📫 Reach me on [mail@enniomariani.ch](mailto:mail@enniomariani.ch)  
 
 **Main Stack:**  
@@ -23,22 +23,4 @@ I am a FullStack dev who loves tech and layout-challenges
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23EEEEEE.svg?style=for-the-badge&logo=godot-engine)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-*I also work with GitHub Actions, Docker, MySQL, PHP, Figma, and various other tools depending on project needs.*
-
-<!--
-**enniomariani/enniomariani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I also work with GitHub Actions, Docker, C, MySQL, PHP, Figma, Phaser.js, and various other tools depending on project needs.*
